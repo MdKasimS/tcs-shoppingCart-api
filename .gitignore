@@ -1,0 +1,6 @@
+"env/"  echo "*.pyc"  echo "__pycache__/"  echo "db.sqlite3" 
+"env/" 
+echo "*.pyc" 
+"*.pyc" 
+"*.pyc" 
+"__pycache__/" 
